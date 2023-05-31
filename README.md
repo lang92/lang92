@@ -2,8 +2,8 @@
 
 ### GitHub Stats
 
-  <img align="left" alt="Kang-kyunghun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kang-kyunghun&show_icons=true&hide_border=true" />
-  <img align="left" alt="Kang-kyunghun's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-kyunghun&layout=compact" />
+  <img align="left" alt="lang92's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lang92&show_icons=true&hide_border=true" />
+  <img align="left" alt="lang92's Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lang92&layout=compact" />
 
 
 
